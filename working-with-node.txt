@@ -1,0 +1,13 @@
+1. How do you import a module?
+require('./filename')
+module.exports property
+
+2. What JavaScript statement do you use to export a module?
+module.exports property
+
+3. Are there other ways to export a module?
+No
+
+4. What are ES6 modules and how do they differ from the module 
+we created in this checkpoint?
+ES6 modules occur asynchonously 

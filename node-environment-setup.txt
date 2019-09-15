@@ -1,0 +1,18 @@
+1. What is npm and what does it do?
+Node Package Manager
+an online repository for the publishing of 
+open-source Node.js projects; second, it is a 
+command-line utility for interacting with said 
+repository that aids in package installation, 
+version management, and dependency management.
+
+2. What kind of information does package.json hold?
+The package.json file holds info about the specific project.
+
+
+3.Google another Node package. Using the demo 
+directory run 
+npm install <theNameOfThePackage> --save. 
+Check the contents of your package.json file 
+to make sure that the dependencies list the 
+name of the Node package.
